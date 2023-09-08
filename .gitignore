@@ -1,0 +1,12 @@
+# Ignoriert alle kompilierten Dateien
+*.exe
+*.o
+*.dll
+*.so
+*.a
+*.out
+
+
+# oder für alle Dateien in einem Verzeichnis
+build/
+
